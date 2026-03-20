@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Researcher | Team Lead</h3>
 
 <p align="center">
-  <img src="./toji-walk.gif" alt="Toji Fushiguro" />
+  <img src="./toji-walk.gif" alt="Toji Fushiguro" width="100%"/>
 </p>
 
 ---
