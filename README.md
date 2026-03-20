@@ -2,15 +2,16 @@
 <h3 align="center">Software Engineer | Researcher | Team Lead</h3>
 
 <p align="center">
-  <img src="./toji.gif" alt="Toji Fushiguro" width="350" />
+  <img src="./toji-walk.gif" alt="Toji Fushiguro" width="350" />
 </p>
 
 ---
 
 ### About Me
-- Backend engineering
+- Engineering
 - Distributed systems
-- Research and technical leadership
+- Research 
+- Senior Dev
 
 ### Links
 - [LinkedIn](https://www.linkedin.com/)
