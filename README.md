@@ -1,5 +1,5 @@
 <h1 align="center">Imad Buljić</h1>
-<h3 align="center">Software Engineer | Researcher | Team Lead</h3>
+<h3 align="center">Software Engineer | Researcher | Team Lead | MA Student</h3>
 
 <p align="center">
   <img src="./toji-walk.gif" alt="Toji Fushiguro" width="100%"/>
