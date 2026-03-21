@@ -1,4 +1,5 @@
 <h1 align="center">Imad Buljić</h1>
+
 <h3 align="center">Software Engineer • Team Lead • Researcher • MA Student</h3>
 
 <p align="center">
