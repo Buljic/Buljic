@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer • Team Lead • Researcher • MA Student</h3>
 
 <p align="center">
-  Building robust software systems, leading engineering teams, and publishing research across backend performance, telecom, and web security.
+  Building robust software systems, leading engineering teams, and publishing research across different fields. 
 </p>
 
 <p align="center">
@@ -19,10 +19,10 @@
 
 ## About
 
-I am a software engineer and team lead
+I am a software engineer and a team lead
 
-Alongside industry work, I am an **MSc student at the University of Zenica** and an **IEEE-published researcher**. 
-Outside engineering, I work on photography under **@imads.art**.
+Alongside industry work, I am an **MSc student at the University of Zenica**, **researcher** and a **BHFF Scholar**. 
+Outside all of that, I do like 400 random things and also post photography stuff on **@imads.art**.
 
 ## Online
 
