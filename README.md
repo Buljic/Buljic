@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer • Team Lead • Researcher • MA Student</h3>
 
 <p align="center">
-  Building robust software systems, leading engineering teams, and publishing research across different fields. 
+  Building software systems, leading engineering teams, and publishing research across different fields.
 </p>
 
 <p align="center">
@@ -16,6 +16,18 @@
 </p>
 
 ---
+
+## What I am building now
+
+Two projects I would point an engineer to first:
+
+- [llm-serving-lab](https://github.com/Buljic/llm-serving-lab) - a measurement harness for LLM
+  serving. Seeded Poisson traffic, streaming TTFT and TPOT capture, goodput against a stated SLO,
+  cost per million output tokens. Run for real against a live server, raw rows committed, every
+  table regenerated from them.
+- [agent-workbench](https://github.com/Buljic/agent-workbench) - an internal platform for
+  tool-calling agents: path and command guardrails, a write approval gate, a per-step audit trail,
+  and an offline eval harness whose tests fail when a guard is removed.
 
 ## About
 
